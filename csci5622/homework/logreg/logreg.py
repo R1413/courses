@@ -102,6 +102,11 @@ class LogReg:
 
         return self.w
 
+def eta_schedule(iteration):
+    # TODO (extra credit): Update this function to provide an
+    # EFFECTIVE iteration dependent learning rate size.  
+    return 1.0 
+
 def read_dataset(positive, negative, vocab, test_proportion=0.1):
     """
     Reads in a text dataset with a given vocabulary
@@ -133,10 +138,7 @@ def read_dataset(positive, negative, vocab, test_proportion=0.1):
 
     return train, test, vocab
 
-def eta_schedule(iteration):
-    # TODO (extra credit): Update this function to provide an
-    # EFFECTIVE iteration dependent learning rate size.  
-    return 1.0 
+
 
 if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
@@ -145,11 +147,11 @@ if __name__ == "__main__":
     argparser.add_argument("--eta", help="Initial SG learning rate",
                            type=float, default=0.1, required=False)
     argparser.add_argument("--positive", help="Positive class",
-                           type=str, default="../data/hockey_baseball/positive", required=False)
+                           type=str, default="../data/autos_motorcycles/positive", required=False)
     argparser.add_argument("--negative", help="Negative class",
-                           type=str, default="../data/hockey_baseball/negative", required=False)
+                           type=str, default="../data/autos_motorcycles/negative", required=False)
     argparser.add_argument("--vocab", help="Vocabulary that can be features",
-                           type=str, default="../data/hockey_baseball/vocab", required=False)
+                           type=str, default="../data/autos_motorcycles/vocab", required=False)
     argparser.add_argument("--passes", help="Number of passes through train",
                            type=int, default=1, required=False)
 
