@@ -1,9 +1,10 @@
 import random
 import argparse
 
-from numpy import zeros, sign 
-from math import exp, log
+from numpy import zeros, sign, argsort
+from math import exp, log, pow
 from collections import defaultdict
+import matplotlib.pyplot as plt
 
 
 kSEED = 1735
@@ -59,8 +60,9 @@ class LogReg:
         """
         
         self.w = zeros(num_features)
+        self.num_features = num_features
         self.lam = lam
-        self.eta = eta
+        self.eta = eta(1)
         self.last_update = defaultdict(int)
 
         assert self.lam>= 0, "Regularization parameter must be non-negative"
@@ -99,8 +101,49 @@ class LogReg:
         """
         
         # TODO: Implement updates in this function
-
+        self.w += self.eta*(train_example.y - sigmoid(self.w.dot(train_example.x)))*train_example.x
+        
+        #Perform lazy sparse regularization
+        for k in range(1,self.num_features):
+            #Check for nonzero feature
+            if(train_example.x[k] != 0):
+                #Perform regularization for the kth feature
+                self.w[k] *= pow(1 - 2*self.eta*self.lam,iteration - self.last_update.get(k, -1))
+                #Set kth feature's update iteration
+                self.last_update[k] = iteration
         return self.w
+
+
+    def get_best_features(self, x, vocab):
+        """
+        Print the x best features for both classes
+        """
+        order = argsort(self.w)
+
+        print("Positive")
+        for i in range(1,x+1):
+            if(self.w[order[-i]] <= 0):
+                break
+            print("\tFeature: %s, Score: %f" % (vocab[order[-i]], self.w[order[-i]]))
+        
+        print("\nNegative")
+        for i in range(x):
+            if(self.w[order[i]] >= 0):
+                break
+            print("\tFeature: %s, Score: %f" % (vocab[order[i]], self.w[order[i]]))
+
+    def get_worst_features(self, x, vocab):
+        """
+        Print the x worst features for predicting the class
+        """
+
+        order = argsort([abs(i) for i in self.w])
+
+        print("Poorest predictors")
+        for i in range(x):
+            print("\tFeature: %s, Score: %f" % (vocab[order[i]], self.w[order[i]]))
+
+
 
 def eta_schedule(iteration):
     # TODO (extra credit): Update this function to provide an
@@ -154,6 +197,7 @@ if __name__ == "__main__":
                            type=str, default="../data/autos_motorcycles/vocab", required=False)
     argparser.add_argument("--passes", help="Number of passes through train",
                            type=int, default=1, required=False)
+    argparser.add_argument("--output", help="Name of plot output file", type=str, default="output.png", required=False)
 
     args = argparser.parse_args()
     train, test, vocab = read_dataset(args.positive, args.negative, args.vocab)
@@ -165,6 +209,8 @@ if __name__ == "__main__":
 
     # Iterations
     iteration = 0
+    training_accuracy = []
+    holdout_accuracy = []
     for pp in xrange(args.passes):
         random.shuffle(train)
         for ex in train:
@@ -174,4 +220,19 @@ if __name__ == "__main__":
                 ho_lp, ho_acc = lr.progress(test)
                 print("Update %i\tTP %f\tHP %f\tTA %f\tHA %f" %
                       (iteration, train_lp, ho_lp, train_acc, ho_acc))
+                training_accuracy.append(train_acc)
+                holdout_accuracy.append(ho_acc)
             iteration += 1
+    lr.get_best_features(5,vocab)
+    lr.get_worst_features(5,vocab)
+    
+    # Create figure
+    plt.figure()
+    plt.title("Model Accuracy (%s)" % (args.output,))
+    plt.xlabel("Iterations % 5")
+    plt.ylabel("Accuracy")
+    plt.plot(training_accuracy, label="Training Accuracy")
+    plt.plot(holdout_accuracy, label="Holdout Accuracy")
+    plt.legend()
+    #plt.show()
+    plt.savefig(args.output, format="png")

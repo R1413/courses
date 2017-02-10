@@ -72,6 +72,8 @@ class TestLogReg(unittest.TestCase):
         self.assertAlmostEqual(w[3], -1.2848700247389886)
         self.assertAlmostEqual(w[4], -0.2349783374564981)
 
+        self.logreg_reg.get_best_features(2,kTOY_VOCAB)
+
 
 
 if __name__ == '__main__':
