@@ -27,7 +27,7 @@
 | 02.24        | 2.4, 2.5, 3.3	 | 			   | Matrices and Assoc. Operations	     |			| [hmwk05](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz8p8u2dq5h3rb)	| 
 | 02.27        | 				 | 			   | 									 |	 		|			| 
 | 03.01        | 				 | 			   | **Quiz 2** (covers hmwks 3-4) 		 |	 		|			| 
-| 03.03        | 		         | 			   |  									 |			| 			| 
+| 03.03        | 		         | 			   |  									 |			| [hmwk06](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izjzlr87rrf7jt)			| 
 <!--
 | 03.06        | 				 | 			   | 									 |	        | 			| 
 | 03.08        | 				 | 			   | 									 |	        |			| 
