@@ -29,11 +29,11 @@
 | 02.20        | [Mohri 2](https://piazza.com/class_profile/get_resource/ixrtksejs0v6pp/izbrfxujamyrv)   														         | 			   | Learning Theory Part 1			     |   [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson10.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LxcXiFx1Nd14BnmxhYgYvx4)      |			| 
 | 02.22        | [Mohri 3.2-3.3](https://piazza.com/class_profile/get_resource/ixrtksejs0v6pp/izbrfxujamyrv) 														     | 			   | Learning Theory Part 2				 |	 [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson11.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LwkHDDVrVrd2lrpq2VFLZgT)		|			| 
 | 02.24        | 		         | 			   |  									 |			| [FeatEngr](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/feature_engineering/assign.md)	| 
-| 02.27        | [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf) 1, 3.1-3.2 												 |	     	   | Hard-Margin SVMs 					 |	    	|			| 
+| 02.27        | [Burges](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf) 1, 3.1-3.2 												 |	     	   | Hard-Margin SVMs 					 |	    	|			| 
 | 03.01        | 				 | 			   | Guest Speaker 						 |	 		|			| 
 | 03.03        | 		         | 			   |  									 |			| [Proposal](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)											| 
-| 03.06        | [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf) 3.4 													 | [Platt](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/smo-book.pdf)												   | Soft-Margin SVMs    				 | 			|			| 
-| 03.08        | [Burges](http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf) 4 														 | 			   | The Kernel Trick 					 |	 		|			| 
+| 03.06        | [Burges](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf) 3.4 													 | [Platt](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/smo-book.pdf)												   | Soft-Margin SVMs    				 | 			|			| 
+| 03.08        | [Burges](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf) 4 														 | 			   | The Kernel Trick 					 |	 		|			| 
 | 03.10        | 		         | 			   |  									 |			| Learning 	| 
 | 03.13        | 			     | 			   | Review								 |			|			| 
 | 03.15        | 			     | 			   | Midterm							 |			|			| 
