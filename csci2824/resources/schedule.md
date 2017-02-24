@@ -23,7 +23,7 @@
 | 02.15        | 2.3			 | 			   | Functions                           |	[Lecture 12](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz8s9kagsv35bu) 		|			| 
 | 02.17        | 2.4		     | 			   | Sequences 							 |	[Lecture 13](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izbjeane1xf73k)		| [hmwk04](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz0blyufbik2pc)												  | 
 | 02.20        | 3.1         	 |	     	   | Algorithms							 |	[Lecture 14](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izf5jiwufr942m)    	|			| 
-| 02.22        | 3.2, 3.3		 | 			   | Complexity							 | 			|			| 
+| 02.22        | 3.2, 3.3		 | 			   | Complexity							 | 	[Lecture 15](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izjh3ri4nyy16e)		|			| 
 | 02.24        | 2.4, 2.5, 3.3	 | 			   | Matrices and Assoc. Operations	     |			| [hmwk05](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz8p8u2dq5h3rb)	| 
 | 02.27        | 				 | 			   | 									 |	 		|			| 
 | 03.01        | 				 | 			   | **Quiz 2** (covers hmwks 3-4) 		 |	 		|			| 
