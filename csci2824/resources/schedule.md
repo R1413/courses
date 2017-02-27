@@ -34,25 +34,25 @@
 | 03.13        | 5.2		     | 			   | Strong Induction 					 |			|			| 
 | 03.15        | 5.3		     | 			   | Recursion 							 |			|			| 
 | 03.17        | 5.4	         | 			   | Recursive Applications 			 |			| hmwk08																																	| 
-| 03.20        | 5.5 			 | 			   | Program Correctness 				 |			|			| 
-| 03.22        | 6.1 			 |             | Basic Counting **Quiz 3** (covers hmwks 5-7)   |           |			 
-| 03.24        | 6.2 	         | 			   | The Pigeonhole Principle 			 |			| hmwk09																																	| 
+| 03.20        | 6.1 			 | 			   | Counting and Pigeonhole Principle  |			|			| 
+| 03.22        | 6.2 			 |             | Pigeonhole **Quiz 3** (covers hmwks 5-7)   |           |			 
+| 03.24        | 6.3, 6.5        | 			   | Permutations and Combos 			 |			| hmwk09																																	| 
 | 03.27        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.29        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.31        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|           																																| 
-| 04.03        | 6.3, 6.5		 | 			   | Permutations and Combos 			 |			|			| 
-| 04.05        | 6.4 			 | 			   | Binomial Coefficients 				 |			|			| 
-| 04.07        | 7.1, 7.2		 | 			   | Basic Probability Theory 			 |			| hmwk10																																		| 
-| 04.10        | 7.2, 7.3 		 |  		   | Bayes' Theorem 					 |			|			| 
-| 04.12        | 7.4			 | 			   | Exp. Value - **Quiz 4** (covers hmwks 8-10)|			|			 
-| 04.14        | 7.4			 | 			   | Variance and Spam Filters			 |			| hmwk11																																		| 
-| 04.17        | 				 | 			   | 									 |			|			| 
-| 04.19        | 				 | 			   | 									 |			|			| 
-| 04.21        | 				 | 			   | 									 |			| hmwk12																																		| 
-| 04.24        | 				 | 			   | 									 |			|			| 
-| 04.26        | 				 | 			   | 									 |			|			| 
-| 04.28        | 				 | 			   | 									 |			| hmwk13																																		| 
-| 05.01        | 				 | 			   | 									 |			|			| 
+| 04.03        | 6.4        	 | 			   | Binomial Coefficients               |			|			| 
+| 04.05        | 7.1, 7.2 		 | 			   | Basic Probability and Theory        |			|			| 
+| 04.07        | 7.2, 7.3		 | 			   | Bayes' Theorem 					 |			| hmwk10																																		| 
+| 04.10        |          		 |  		   | Spam Filters 						 |			|			| 
+| 04.12        | 8.1			 | 			   | Recurrences - **Quiz 4** (covers hmwks 8-10)|			|			 
+| 04.14        | 8.2, 8.3		 | 			   | Solving Linear Recurrences			 |			| hmwk11																																		| 
+| 04.17        | 9.1, 9.2		 | 			   | Relations Part I					 |			|			| 
+| 04.19        | 				 | 			   | Relations Part II					 |			|			| 
+| 04.21        | 10.1, 10.2		 | 			   | Graphs Part I						 |			| hmwk12																																		| 
+| 04.24        | 10.3, 10.4		 | 			   | Graphs Part II						 |			|			| 
+| 04.26        | 11.1-11.3		 | 			   | Trees 								 |			|			| 
+| 04.28        | 				 | 			   | Wiggle Room / Applications 		 |			| hmwk13																																		| 
+| 05.01        | 				 | 			   | Wiggle Room / Applications 		 |			|			| 
 | 05.03        | 				 | 			   | 	**Quiz 5**	(covers hmwks 11-13) |			|			| 
 | 05.05        | 				 | 			   | 	**Final Exam Review**			 |			| hmwk14																																		| 
 | 05.11        | 				 | 			   | **Final Exam @ 7:30pm in GOLD A2B270**	 |		| 			| 
