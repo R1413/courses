@@ -54,7 +54,7 @@
 | 04.28        | 				 | 			   | 									 |			| hmwk13																																		| 
 | 05.01        | 				 | 			   | 									 |			|			| 
 | 05.03        | 				 | 			   | 	**Quiz 5**	(covers hmwks 11-13) |			|			| 
-| 05.05        | 				 | 			   | 									 |			| hmwk14																																		| 
+| 05.05        | 				 | 			   | 	**Final Exam Review**			 |			| hmwk14																																		| 
 
 | 05.11        | 				 | 			   | **Final Exam @ 7:30pm in GOLD A2B270**	 |		| 			| 
 
