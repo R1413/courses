@@ -39,8 +39,7 @@
 | 03.24        | 6.2 	         | 			   | The Pigeonhole Principle 			 |			| hmwk09																																	| 
 | 03.27        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.29        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
-| 03.31        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|           | 
-
+| 03.31        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|           																																| 
 | 04.03        | 6.3, 6.5		 | 			   | Permutations and Combos 			 |			|			| 
 | 04.05        | 6.4 			 | 			   | Binomial Coefficients 				 |			|			| 
 | 04.07        | 7.1, 7.2		 | 			   | Basic Probability Theory 			 |			| hmwk10																																		| 
