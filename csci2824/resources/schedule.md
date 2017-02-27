@@ -44,7 +44,7 @@
 | 04.05        | 6.4 			 | 			   | Binomial Coefficients 				 |			|			| 
 | 04.07        | 7.1, 7.2		 | 			   | Basic Probability Theory 			 |			| hmwk10																																		| 
 | 04.10        | 7.2, 7.3 		 |  		   | Bayes' Theorem 					 |			|			| 
-| 04.12        | 7.4			 | 			   | Expected Value - **Quiz 4** (covers hmwks 8-10)|			|			 
+| 04.12        | 7.4			 | 			   | Exp. Value - **Quiz 4** (covers hmwks 8-10)|			|			 
 | 04.14        | 7.4			 | 			   | Variance and Spam Filters			 |			| hmwk11																																		| 
 | 04.17        | 				 | 			   | 									 |			|			| 
 | 04.19        | 				 | 			   | 									 |			|			| 
