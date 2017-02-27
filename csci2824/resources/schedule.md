@@ -30,7 +30,7 @@
 | 03.03        | 4.3	         | 			   | Primes and GCDs 					 |			| [hmwk06](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izjzlr87rrf7jt)			| 
 | 03.06        | 4.4, 4.5		 | 			   | Congruences and Apps. 				 |	        | 			| 
 | 03.08        | 4.6			 | 			   | Cryptography						 |	        |			| 
-| 03.10        | 5.1	         | 			   | Weak Induction						 |			| hmwk07 																																	| 
+| 03.10        | 5.1	         | 			   | Weak Induction						 |			| [hmwk07]() 																																	| 
 | 03.13        | 5.2		     | 			   | Strong Induction 					 |			|			| 
 | 03.15        | 5.3		     | 			   | Recursion 							 |			|			| 
 | 03.17        | 5.4	         | 			   | Recursive Applications 			 |			| hmwk08																																	| 
