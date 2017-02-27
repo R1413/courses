@@ -55,6 +55,6 @@
 | 05.01        | 				 | 			   | Wiggle Room / Applications 		 |Lecture 41|			| 
 | 05.03        | 				 | 			   | 	**Quiz 5**	(covers hmwks 11-13) |			|			| 
 | 05.05        | 				 | 			   | 	**Final Exam Review**			 |			| hmwk14																																		| 
-| 05.11        | 				 | 			   | **Final Exam @ 7:30pm in GOLD A2B270**	 |		| 			| 
+| 05.11        | 				 | 			   | **Final Exam @ 7:30pm in GOLD A2B70**	 |		| 			| 
 
 
