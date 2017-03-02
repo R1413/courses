@@ -57,7 +57,7 @@ w that perfectly classifies a given training set (up to floating point precision
 - In addition to completing the code you should clearly describe your 
 solution technique in your analysis.  
 
-- Give an example of 4 points that cannot be shattered by this classifier.  How does this relate to the VC dimension? 
+- Give an example of 4 _distinct_ points that cannot be shattered by this classifier.  How does this relate to the VC dimension? 
 
 <br>
 
