@@ -27,7 +27,7 @@
 | 02.24        | 2.5, 3.3	 	 | 			   | Matrices and Operations	     |  [Lecture 16](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izjzlr87rrf7jt)									| [hmwk05](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iz8p8u2dq5h3rb)	| 
 | 02.27        | 4.1, 4.2		 | 			   | Divisibility and Modular Arith.	 |[Lecture 17](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izod2fe4fc462e)|			| 
 | 03.01        | 4.2			 | 			   | Int. Repres. -  **Quiz 2** (covers hmwks 3-4)|[Lecture 18](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izs2bh2jqs34wz) |	| 
-| 03.03        | 4.3	         | 			   | Primes and GCDs 					 |Lecture 19| [hmwk06](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izjzlr87rrf7jt)			| 
+| 03.03        | 4.3	         | 			   | Primes and GCDs 					 |[Lecture 19](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iztfvi05khn3ct)| [hmwk06](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izjzlr87rrf7jt)			| 
 | 03.06        | 4.4, 4.5		 | 			   | Congruences and Apps. 				 |Lecture 20| 			| 
 | 03.08        | 4.6			 | 			   | Cryptography						 |Lecture 21|			| 
 | 03.10        | 5.1	         | 			   | Weak Induction						 |Lecture 22| hmwk07 																																	| 
