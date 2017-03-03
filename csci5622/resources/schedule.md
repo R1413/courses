@@ -35,7 +35,7 @@
 | 03.06        | [Burges](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/) 3.4 													 | [Platt](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/smo-book.pdf)												   | Soft-Margin SVMs    				 | 			|			| 
 | 03.08        | [Burges](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/) 4 														 | 			   | The Kernel Trick 					 |	 		|			| 
 | 03.10        | 		         | 			   |  									 |			| [Learning](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/learnability/assign.md) 	| 
-| 03.13        | 			     | 			   | Review								 |			|			| 
+| 03.13        | 			     | 			   | [Review](https://github.com/chrisketelsen/courses/blob/master/csci5622/exam/midterm_info.md)								 |			|			| 
 | 03.15        | 			     | 			   | Midterm							 |			|			| 
 | 03.17        | 		         | 			   | 									 |			| 			| 
 | 03.20        | ISL 8.1   		 | ISL 8.2	   | Decision Trees						 |	        | 			| 
