@@ -66,6 +66,8 @@ Material Overview
 - Residual plots 
 
 **Feature Engineering** 
+- Text models (BOW and tfidf)
+- Residual plots 
 
 **Regression**
 - probabilistic interpretation of regression models 
