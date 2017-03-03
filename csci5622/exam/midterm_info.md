@@ -24,6 +24,7 @@ Material Overview
 - how the algorithm works 
 - how to perform classification with the algorithm 
 - properties of the algorithm 
+- don't need to know about data structure
 
 **Naive Bayes**
 - assumptions behind the algorithm 
@@ -38,14 +39,6 @@ Material Overview
 - how to find the weights using Stochastic Gradient Ascent 
 - how to efficiently perform regularization in the context of SGA 
 
-**Support Vector Machines** 
-- the concept of a margin 
-- the geometry behind SVM 
-- the workings of hard-margin SVM 
-- the workings of soft-margin SVM 
-- what a support vector is 
-- the SMO algorithm for determining the model 
-- ideas related to different kernels 
 
 <!---
 **Decision Trees** 
@@ -93,5 +86,13 @@ Material Overview
 - PAC Learnability: what it means, what is involved, simple bounds (but no proofs) 
 - VC Dimension: how to compute it (possibly simple proofs), why it matters 
 
+**Support Vector Machines** 
+- the concept of a margin 
+- the geometry behind SVM 
+- the workings of hard-margin SVM 
+- the workings of soft-margin SVM 
+- what a support vector is 
+- the SMO algorithm for determining the model 
+- ideas related to different kernels 
 
 
