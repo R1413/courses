@@ -30,7 +30,7 @@
 | 03.03        | 4.3	         | 			   | Primes and GCDs 					 |[Lecture 19](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iztfvi05khn3ct)| [hmwk06](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/izjzlr87rrf7jt)			| 
 | 03.06        | 4.4     		 | 4.5		   | Congruences and Apps. 				 |[Lecture 20](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j00l3ubpu076oz)| 			| 
 | 03.08        | 4.4			 | 			   | Chinese Remainder Theorem 			 |[Lecture 21](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j00l4p3i9yf71j)|			| 
-| 03.10        | 5.1	         | 			   | Cryptography 						 |[Lecture 22](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j03ekwqyr9n5mt)| [hmwk07](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iztawt7h43d1sh) 																																	| 
+| 03.10        | 4.6	         | 			   | Cryptography 						 |[Lecture 22](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j03ekwqyr9n5mt)| [hmwk07](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iztawt7h43d1sh) 																																	| 
 | 03.13        | 5.1		     | 			   | Weak Induction 					 |Lecture 23|			| 
 | 03.15        | 5.2		     | 			   | Strong Induction 					 |Lecture 24|			| 
 | 03.17        | 5.3	         | 			   | Recursion 							 |Lecture 25| hmwk08																																	| 
