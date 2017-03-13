@@ -61,8 +61,16 @@ def train_sin_classifier(data):
         "All labels must be True / False"
 
     # TODO: Compute a parameter w that will correctly classify the dataset
+    def toLabel(x):
+        if(x): return 1
+        else: return -1
 
-    w = 1.0 * pi  
+    def find_w(data):
+        datap = [ (1-toLabel(data[i][1]))/2 *2**(data[i][0]) for i in range(len(data)) ]    
+        return (1.0 + sum(datap)) * pi
+
+    w = find_w(data)
+    print(w)
     return SinClassifier(w)
 
 if __name__ == "__main__":
