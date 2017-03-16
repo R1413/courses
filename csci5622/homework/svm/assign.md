@@ -26,11 +26,11 @@ Analysis (15pts):
 
 1.  Use the Sklearn implementation of support vector machines to train a classifier to distinguish 3's from 8's (using the MNIST data from the KNN homework).
 1.  Experiment with linear, polynomial, and RBF kernels.  In each case, perform a grid search to determine optimal-ish hyperparameters
-for the given model (e.g. C for linear kernel, C and p for polynomial kernel, and C and gamma for RBR).  You will find very helpful 
+for the given model (e.g. C for linear kernel, C and p for polynomial kernel, and C and gamma for RBF).  You will find very helpful 
 examples on how to do this in the Lecture 14 in-class Notebook. 
 1.  Comment on classification performance for each model for varying parameters by either testing on a hold-out set or performing 
 cross-validation. 
-1.  Give examples of support vectors from each class when using a linear kernel.
+1.  Give examples (in picture form) of support vectors from each class when using a linear kernel.
 
 Notes
 -
