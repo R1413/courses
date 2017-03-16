@@ -22,6 +22,7 @@ kSEP = np.array([(-2, 2, +1),    # 0 - A
 def weight_vector(x, y, alpha):
     """
     Given a vector of alphas, compute the primal weight vector w. 
+    The vector w should be returned as an Numpy array. 
     """
 
     w = np.zeros(len(x[0]))
@@ -33,7 +34,7 @@ def weight_vector(x, y, alpha):
 def find_support(x, y, w, b, tolerance=0.001):
     """
     Given a set of training examples and primal weights, return the indices 
-    of all of the support vectors
+    of all of the support vectors as a set. 
     """
 
     support = set()
