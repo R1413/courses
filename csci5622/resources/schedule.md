@@ -40,7 +40,7 @@
 | 03.17        | 		         | 			   | 									 |			| 			| 
 | 03.20        | ISL 8.1   		 | ISL 8.2	   | Decision Trees						 |	        | 			| 
 | 03.22        | ESL 10.1-10.5	 | 			   | Boosting 							 |	        |			| 
-| 03.24        | 		         | 			   | 									 |			| SVM       | 
+| 03.24        | 		         | 			   | 									 |			| [SVM](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/svm/assign.md)       | 
 | 03.27        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.29        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.31        | 			     | 			   | 									 |			|			| 
