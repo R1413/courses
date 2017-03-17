@@ -1,4 +1,4 @@
-#CSCI 2824 Calendar
+# CSCI 2824 Calendar
 
 **Notes**:
 - This schedule is a rough approximation and subject to change.
@@ -33,9 +33,9 @@
 | 03.10        | 4.6	         | 			   | Cryptography 						 |[Lecture 22](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j03ekwqyr9n5mt)| [hmwk07](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/iztawt7h43d1sh) 																																	| 
 | 03.13        | 5.1		     | 			   | Weak Induction 					 |[Lecture 23](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0a1d75ue203l4)|			| 
 | 03.15        | 5.2		     | 			   | Strong Induction 					 |[Lecture 24](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0alpqzbzx85vu)|			| 
-| 03.17        | 5.3	         | 			   | Recursion 							 |Lecture 25| 																																	| 
-| 03.20        | 5.4 			 | 			   | Recursive Applications 			 |Lecture 26|			| 
-| 03.22        | 6.2 			 |             | Counting **Quiz 3** (covers hmwks 5-7)   | Lecture 27    |			 
+| 03.17        | 5.3, 5.4	     | 			   | Recursion 							 |[Lecture 25](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0dxaebi5h62gk)| 																																	| 
+| 03.20        | 6.1 			 | 			   | Counting 						     |Lecture 26|			| 
+| 03.22        | 6.1/6.2 		 |             | Counting **Quiz 3** (covers hmwks 5-7)   | Lecture 27    |			 
 | 03.24        | 6.2 	         | 			   | Pigeonhole Principle 				 |Lecture 28| [hmwk08](https://github.com/chrisketelsen/courses/blob/master/csci2824/hmwk/hmwk08/hmwk08.ipynb)																																	| 
 | 03.27        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.29        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
