@@ -39,7 +39,7 @@
 | 03.15        | 			     | 			   | [Midterm](https://piazza.com/colorado/spring2017/csci5622/resources)							 |			|			| 
 | 03.17        | 		         | 			   | 									 |			| 			| 
 | 03.20        | ISL 8.1   		 | ISL 8.2	   | Decision Trees						 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson15.pdf)        | 			| 
-| 03.22        | ESL 10.1-10.5	 | 			   | Boosting 							 |	        |			| 
+| 03.22        | ESL 10.1-10.5	 | 			   | Boosting 							 | [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson16.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lx7-RRlpZUN9OarKkFL_9FK&disable_polymer=true)	        |			| 
 | 03.24        | 		         | 			   | 									 |			| [SVM](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/svm/assign.md)       | 
 | 03.27        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.29        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
