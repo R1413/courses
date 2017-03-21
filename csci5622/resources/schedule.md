@@ -36,7 +36,7 @@
 | 03.08        | [Burges](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/) 4 														 | 			   | The Kernel Trick 					 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson14.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lw1SWdEH96jbDSiAUolE-ms) 		|			| 
 | 03.10        | 		         | 			   |  									 |			| [Learning](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/learnability/assign.md) 	| 
 | 03.13        | 			     | 			   | [Review](https://github.com/chrisketelsen/courses/blob/master/csci5622/exam/midterm_info.md)								 |			|			| 
-| 03.15        | 			     | 			   | Midterm							 |			|			| 
+| 03.15        | 			     | 			   | [Midterm](https://piazza.com/colorado/spring2017/csci5622/resources)							 |			|			| 
 | 03.17        | 		         | 			   | 									 |			| 			| 
 | 03.20        | ISL 8.1   		 | ISL 8.2	   | Decision Trees						 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson14.pdf)        | 			| 
 | 03.22        | ESL 10.1-10.5	 | 			   | Boosting 							 |	        |			| 
