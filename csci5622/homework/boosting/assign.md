@@ -36,8 +36,8 @@ What to turn in
 -
 
 1.  Submit your _boost.py_ file
-1.  Submit your _analysis.pdf_ file (no more than one page; pictures
-    are better than text)
+1.  Submit your _analysis.pdf_ file (no more than one page of text; pictures
+    are better)
 
 Unit Tests
 -
