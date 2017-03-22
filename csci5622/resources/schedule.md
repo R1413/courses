@@ -46,7 +46,7 @@
 | 03.31        | 			     | 			   | 									 |			|			| 
 | 04.03        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html) 																				 | 			   | Neural Networks 1					 |			|			| 
 | 04.05        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			   | Neural Networks 2					 |			|			| 
-| 04.07        | 				 | 			   | 									 |			| Boosting	| 
+| 04.07        | 				 | 			   | 									 |			| [Boosting](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/boosting/assign.md)	| 
 | 04.10        | 				 |  		   | K-Means							 |			|			| 
 | 04.12        | 				 | 			   | GMMs								 |			|			| 
 | 04.14        | 				 | 			   | 									 |			| [Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)											| 
