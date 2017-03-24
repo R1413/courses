@@ -36,7 +36,7 @@
 | 03.17        | 5.3, 5.4	     | 			   | Recursion 							 |[Lecture 25](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0dxaebi5h62gk)| 																																	| 
 | 03.20        | 6.1 			 | 			   | Counting 						     |[Lecture 26](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0ixfk3svax2kp)|			| 
 | 03.22        | 6.2 			 |             | The PHP **Quiz 3** (covers hmwks 5-7)   | [Lecture 27](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0l1k6bkmpqdi)    |			 
-| 03.24        | 6.3 	         | 			   | Permutations and Combos |[Lecture 28](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0nb3qz66ih2wx)| [hmwk08](https://github.com/chrisketelsen/courses/blob/master/csci2824/hmwk/hmwk08/hmwk08.ipynb)																																	| 
+| 03.24        | 6.3 	         | 			   | Permutations and Combos |[Lecture 28](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0nwfdxavur2rk)| [hmwk08](https://github.com/chrisketelsen/courses/blob/master/csci2824/hmwk/hmwk08/hmwk08.ipynb)																																	| 
 | 03.27        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.29        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.31        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|           																																| 
