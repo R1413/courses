@@ -47,8 +47,8 @@
 | 04.03        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html) 																				 | 			   | Neural Networks 1					 |			|			| 
 | 04.05        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			   | Neural Networks 2					 |			|			| 
 | 04.07        | 				 | 			   | 									 |			| [Boosting](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/boosting/assign.md)	| 
-| 04.10        | 				 |  		   | K-Means							 |			|			| 
-| 04.12        | 				 | 			   | GMMs								 |			|			| 
+| 04.10        | 				 |  		   | Neural Networks 3					 |			|			| 
+| 04.12        | 				 | 			   | K-Means/GMMs						 |			|			| 
 | 04.14        | 				 | 			   | 									 |			| [Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)											| 
 | 04.17        | 				 | 			   | Bayes Nets 						 |			|			| 
 | 04.19        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			   | HMMs								 |			|			| 
@@ -56,7 +56,7 @@
 | 04.24        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			   | Reinforcement Learning 1			 |			|			| 
 | 04.26        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			   | Reinforcement Learning 2			 |			|			| 
 | 04.28        | 				 | 			   | 									 |			|			| 
-| 05.01        | 				 | 			   | Guest Speaker 						 |			|			| 
+| 05.01        | 				 | 			   | Reinforcement Learning 3|			|			| 
 | 05.03        | 				 | 			   | Ethics and ML 						 |			|			| 
 | 05.05        | 				 | 			   | 									 |			| [Project Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) 										   | 
 
