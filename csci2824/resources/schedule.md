@@ -40,10 +40,10 @@
 | 03.27        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.29        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.31        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|           																																| 
-| 04.03        | 6.5   		   	 | 			   | Permutations and Combos 			 |Lecture 29|			| 
-| 04.05        | 6.4     		 | 			   | Binomial Coefficients + Theorem     |Lecture 30|			| 
-| 04.07        | 7.1, 7.2		 | 			   | Basic Probability and Theory  		 |Lecture 31| [hmwk09](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0my38i9txb7pq)																																		| 
-| 04.10        | 7.2, 7.3  		 |  		   | Bayes' Theorem 					 |Lecture 32|			| 
+| 04.03        | 6.4, 6.5   		   	 | 			   | Perms/Combos + Binomial Thm 			 |[Lecture 29](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j12f87dx7fa6cf)|			| 
+| 04.05        | 7.1     		 | 			   | Basic Probability                   |Lecture 30|			| 
+| 04.07        | 7.2, 7.3 		 | 			   | Theory + Bayes' Theorem 			 |Lecture 31| [hmwk09](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0my38i9txb7pq)																																		| 
+| 04.10        |           		 |  		   | SPAM Filters 						 |Lecture 32|			| 
 | 04.12        |    			 | 			   | **Quiz 4** (covers hmwks 8-10)      |Lecture 33	|			 
 | 04.14        | 8.1     		 | 			   | Recurrences 						 |Lecture 34| hmwk10																																		| 
 | 04.17        | 8.2, 8.3		 | 			   | Solving Linear Recurrences 		 |Lecture 35|			| 
