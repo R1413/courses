@@ -45,7 +45,7 @@
 | 03.29        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.31        | 			     | 			   | 									 |			|			| 
 | 04.03        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html) 																				 | 			   | Neural Networks 1					 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson17.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LzFC7bDuG2bv81zbb8qQT2j)		|			| 
-| 04.05        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			   | Neural Networks 2					 |	[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LxESPGoGWDaVDR5xQs1zUrn)		|			| 
+| 04.05        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			   | Neural Networks 2					 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson18.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LxESPGoGWDaVDR5xQs1zUrn)		|			| 
 | 04.07        | 				 | 			   | 									 |			| [Boosting](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/boosting/assign.md)	| 
 | 04.10        | 				 |  		   | Neural Networks 3					 |			|			| 
 | 04.12        | 				 | 			   | K-Means/GMMs						 |			|			| 
