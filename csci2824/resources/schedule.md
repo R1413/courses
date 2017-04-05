@@ -41,7 +41,7 @@
 | 03.29        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|			| 
 | 03.31        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|           																																| 
 | 04.03        | 6.4, 6.5   		   	 | 			   | Perms/Combos + Binomial Thm 			 |[Lecture 29](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j12f87dx7fa6cf)|			| 
-| 04.05        | 7.1     		 | 			   | Basic Probability                   |Lecture 30|			| 
+| 04.05        | 7.1     		 | 			   | Basic Probability                   |[Lecture 30](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j152n82arr34v1)|			| 
 | 04.07        | 7.2, 7.3 		 | 			   | Theory + Bayes' Theorem 			 |Lecture 31| [hmwk09](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0my38i9txb7pq)																																		| 
 | 04.10        |           		 |  		   | SPAM Filters 						 |Lecture 32|			| 
 | 04.12        |    			 | 			   | **Quiz 4** (covers hmwks 8-10)      |Lecture 33	|			 
