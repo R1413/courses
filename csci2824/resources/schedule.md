@@ -45,7 +45,7 @@
 | 04.07        | 7.2 			 | 			   | Theory |[Lecture 31](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j17xrebhfbg694)| [hmwk09](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0my38i9txb7pq)																																		| 
 | 04.10        | 7.3       		 |  		   | Bayes' Theorem + SPAM Filters 		 |Lecture 32|			| 
 | 04.12        |    			 | 			   | **Quiz 4** (covers hmwks 8-9) 	     |Lecture 33|			 
-| 04.14        | 8.1     		 | 			   | Recurrences 						 |Lecture 34| hmwk10																																		| 
+| 04.14        | 8.1     		 | 			   | Recurrences 						 |Lecture 34| [hmwk10](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j18bqqy2rvx6yj)																																		| 
 | 04.17        | 8.2, 8.3		 | 			   | Solving Linear Recurrences 		 |Lecture 35|			| 
 | 04.19        | 9.1, 9.2		 | 			   | Relations Part I 					 |Lecture 36|			| 
 | 04.21        | 				 | 			   | Relations Part II 					 |Lecture 37| hmwk11																																		| 
