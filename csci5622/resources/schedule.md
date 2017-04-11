@@ -48,7 +48,7 @@
 | 04.05        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			   | Neural Networks 2					 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson18.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5LxESPGoGWDaVDR5xQs1zUrn)		|			| 
 | 04.07        | 				 | 			   | 									 |			| [Boosting](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/boosting/assign.md)	| 
 | 04.10        | 				 |  		   | Principle Component Analysis |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson19.pdf)		|			| 
-| 04.12        | 				 | 			   | K-Means/GMMs						 |			|			| 
+| 04.12        | 				 | 			   | K-Means/GMMs						 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson20.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lx06i__okotMXLbh7Nf165G)		|			| 
 | 04.14        | 				 | 			   | 									 |			| [Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)											| 
 | 04.17        | 				 | 			   | Bayes Nets 						 |			|			| 
 | 04.19        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			   | HMMs								 |			|			| 
