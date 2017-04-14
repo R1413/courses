@@ -42,13 +42,13 @@
 | 03.31        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|           																																| 
 | 04.03        | 6.4, 6.5   		   	 | 			   | Perms/Combos + Binomial Thm 			 |[Lecture 29](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j12f87dx7fa6cf)|			| 
 | 04.05        | 7.1     		 | 			   | Basic Probability                   |[Lecture 30](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j152n82arr34v1)|			| 
-| 04.07        | 7.2 			 | 			   | Theory |[Lecture 31](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j17xrebhfbg694)| [hmwk09](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0my38i9txb7pq)																																		| 
-| 04.10        | 7.3       		 |  		   | Bayes' Theorem |[Lecture 32](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1e39k8eggm1ks)|			| 
+| 04.07        | 7.2 			 | 			   | Theory |[Lecture 31](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1h4mydoqqf27z)| [hmwk09](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j0my38i9txb7pq)																																		| 
+| 04.10        | 7.3       		 |  		   | Bayes' Theorem |[Lecture 32](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1h4nielz1u5o3)|			| 
 | 04.12        |    			 | 			   | SPAM Filters **Quiz 4** (covers hmwks 8-9) 	     |[Lecture 33](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1e3769sgfy2l2)|			 
 | 04.14        | 8.1     		 | 			   | Recurrences 						 |Lecture 34| [hmwk10](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j18bqqy2rvx6yj)																																		| 
 | 04.17        | 8.2, 8.3		 | 			   | Solving Linear Recurrences 		 |Lecture 35|			| 
 | 04.19        | 9.1, 9.2		 | 			   | Relations Part I 					 |Lecture 36|			| 
-| 04.21        | 				 | 			   | Relations Part II 					 |Lecture 37| hmwk11																																		| 
+| 04.21        | 				 | 			   | Relations Part II 					 |Lecture 37| [hmwk11](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1h4la92q2lbb)																																		| 
 | 04.24        | 10.1, 10.2		 | 			   | Graphs Part I						 |Lecture 38|			| 
 | 04.26        | 10.3, 10.4		 | 			   | Graphs Part II 					 |Lecture 39|			| 
 | 04.28        | 11.1-11.3		 | 			   | Trees 								 |Lecture 40| hmwk12																																		| 
