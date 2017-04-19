@@ -46,8 +46,8 @@
 | 04.10        | 7.3       		 |  		   | Bayes' Theorem |[Lecture 32](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1h4nielz1u5o3)|			| 
 | 04.12        |    			 | 			   | SPAM Filters **Quiz 4** (covers hmwks 8-9) 	     |[Lecture 33](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1e3769sgfy2l2)|			 
 | 04.14        | 8.1     		 | 			   | Recurrences 						 |[Lecture 34](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1hxszlh7zd6uz)| [hmwk10](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j18bqqy2rvx6yj)																																		| 
-| 04.17        | 8.2, 8.3		 | 			   | Solving Linear Recurrences 		 |Lecture 35|			| 
-| 04.19        | 9.1, 9.2		 | 			   | Relations Part I 					 |Lecture 36|			| 
+| 04.17        | 8.2, 8.3		 | 			   | Solving Linear Recurrences 		 |[Lecture 35](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1ofaklmeys381)|			| 
+| 04.19        | 9.1, 9.2		 | 			   | Relations Part I 					 |[Lecture 36](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1ojkdn0bys26t)|			| 
 | 04.21        | 				 | 			   | Relations Part II 					 |Lecture 37| [hmwk11](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1h4la92q2lbb)																																		| 
 | 04.24        | 10.1, 10.2		 | 			   | Graphs Part I						 |Lecture 38|			| 
 | 04.26        | 10.3, 10.4		 | 			   | Graphs Part II 					 |Lecture 39|			| 
