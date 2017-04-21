@@ -55,9 +55,9 @@
 | 04.21        | 				 | 			   | 									 |			|			| 
 | 04.24        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			   | Reinforcement Learning 1			 |			|			| 
 | 04.26        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			   | Reinforcement Learning 2			 |			|			| 
-| 04.28        | 				 | 			   | 									 |			|	NeuralNet		| 
+| 04.28        | 				 | 			   | 									 |			|	| 
 | 05.01        | 				 | 			   | Reinforcement Learning 3|			|			| 
-| 05.03        | 				 | 			   | Ethics and ML 						 |			|			| 
+| 05.03        | 				 | 			   | Ethics and ML 						 |			| [Neural Net](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/neural_net/assign.md)			| 
 | 05.05        | 				 | 			   | 									 |			| [Project Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) 										   | 
 
 
