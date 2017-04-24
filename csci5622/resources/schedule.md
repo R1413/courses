@@ -50,10 +50,10 @@
 | 04.10        | 				 |  		   | Principle Component Analysis |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson19.pdf)		|			| 
 | 04.12        | 				 | 			   | K-Means/GMMs						 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson20.pdf)/[vids](https://www.youtube.com/playlist?list=PLnGW93UbO5Lx06i__okotMXLbh7Nf165G)		|			| 
 | 04.14        | 				 | 			   | 									 |			| [Baseline](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md)											| 
-| 04.17        | 				 | 			   | HMMs 1|			|			| 
-| 04.19        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			   | HMMs 2								 |			|			| 
+| 04.17        | 				 | 			   | HMMs 1|			|			| [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lessons21and22.pdf)
+| 04.19        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			   | HMMs 2								 |		[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lessons21and22.pdf)	|			| 
 | 04.21        | 				 | 			   | 									 |			|			| 
-| 04.24        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			   | Reinforcement Learning 1			 |			|			| 
+| 04.24        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			   | Reinforcement Learning 1			 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson23.pdf)		|			| 
 | 04.26        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			   | Reinforcement Learning 2			 |			|			| 
 | 04.28        | 				 | 			   | 									 |			|	| 
 | 05.01        | 				 | 			   | Reinforcement Learning 3|			|			| 
