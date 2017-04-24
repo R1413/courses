@@ -49,7 +49,7 @@
 | 04.17        | 8.2, 8.3		 | 			   | Solving Linear Recurrences 		 |[Lecture 35](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1ofaklmeys381)|			| 
 | 04.19        | 9.1, 9.2		 | 			   | Relations Part I 					 |[Lecture 36](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1ojkdn0bys26t)|			| 
 | 04.21        | 				 | 			   | Relations Part II 					 |[Lecture 37](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1ve21mskm55iz)| [hmwk11](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1h4la92q2lbb)																																		| 
-| 04.24        | 10.1, 10.2		 | 			   | Graphs Part I						 |[Lecture 38](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1ve2eawxfq4kx)|			| 
+| 04.24        | 10.1, 10.2		 | 			   | Graphs Part I						 |[Lecture 38](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1vecqsgot36a)|			| 
 | 04.26        | 10.3, 10.4		 | 			   | Graphs Part II 					 |Lecture 39|			| 
 | 04.28        | 11.1-11.3		 | 			   | Trees 								 |Lecture 40| [hmwk12](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1qzh58zpzx5so)																																		| 
 | 05.01        | 				 | 			   | Wiggle Room / Applications 		 |Lecture 41|			| 
