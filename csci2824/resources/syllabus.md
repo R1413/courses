@@ -1,7 +1,7 @@
-#Discrete Structures (CSCI 2824, Spring 2017)
+# Discrete Structures (CSCI 2824, Spring 2017)
 
 
-###Course Information 
+### Course Information 
 
 * **Class Date/Time**: MWF 9-9:50am 
 * **Class Location**: FLMG 155 
@@ -13,7 +13,7 @@
 * **Office Hours**: 
 	* Chris: M 10-11:30am and W 2-3:30pm in ECOT 731 / After class on Fridays if there is interest
 
-###Why Discrete Structures? 
+### Why Discrete Structures? 
 
 The course covers fundamental ideas from discrete mathematics, especially for computer science students. It focuses on topics that will be foundational for future courses including algorithms, artificial intelligence, programming languages, automata theory, computer systems, cryptography, networks, computer/network security, databases, and compilers.
 
@@ -34,7 +34,7 @@ Some of these problems are [really hard](http://en.wikipedia.org/wiki/NP-complet
 * How to reason like a _pro_: obtain succinct water-tight proofs to guarantee that your solutions are correct, better than a competing solution and all that.
 * We will learn these cool mathematical facts, so that in the course of your education as a computer scientist, you will write cool programs to solve interesting problems involving automated reasoning, games, fractals, social networks and the human genome.
 
-###Topics Covered
+### Topics Covered
 
 Roughly, we will cover the following topics (some of them may be skipped depending on the time available).
 
@@ -48,13 +48,13 @@ Roughly, we will cover the following topics (some of them may be skipped dependi
 * **Trees**: Definitions and properties of trees.
 * **Example Applications**: Artificial Intelligence (automated reasoning, game playing), Graphics (drawing fractals), Cryptography (RSA) and Networks (social network analysis).
 
-###Textbook 
+### Textbook 
 
 We will use [_Discrete Mathematics and Its Applications, 7th ed._](https://smile.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/ref=sr_1_1?s=books&ie=UTF8&qid=1484628806&sr=1-1&keywords=rosen+discrete+math) by Kenneth H. Rosen.  
 
 I realize the book is pricey, but it's pretty well-written and includes lots of cool computer science applications.  Earlier additions are fine, but you'll be responsible for figuring out the section number map between editions for the daily reading. 
 
-###Coursework 
+### Coursework 
 
 **Weekly(ish) Homework**: Homework will be assigned roughly every week throughout the course and due at the beginning of class on Friday of the week after it is assigned.  Some assignments will involve written work and small programming tasks. Other assignments will be devoted to exploring specific computer science applications.  These application assignments will **count as two standard assignments**.  **Your two lowest homework scores will be dropped.** You are expected to write up your solutions neatly, with full explanations and justifications. You may discuss problems with your classmates, **but all work must be your own**.  Please be mindful of the due dates as late submissions will not be accepted.  I accept homework at the start of class or underneath my office door prior to the start of class.  I do **NOT** accept emailed homework under any circumstances.
 
@@ -64,7 +64,7 @@ There will be a cumulative final exam during the schedule final exam time-slot. 
 
 **Course Participation**: Occasionally we will solve a short (5-10 minutes) tutorial problem as a class which you will write up and hand in at the end of lecture.  These are mainly designed to make sure you're attending class (_and also awake_).  If you miss a tutorial problem you can make-up some participation points by being active on the class forum (asking meaningful question, helping your classmates, etc). 
 
-###Grade Determination 
+### Grade Determination 
 The overall grades will be based on a cumulative score computed from 
 * The weekly homework (with two scores dropped)
 * The grades from quizzes (with one score dropped)
@@ -94,7 +94,7 @@ Unless adjustments are necessary, letter grades will be assigned using the stand
 |     D- |   60-62     |
 |     F  |   00-59     |
 
-###Collaboration Policy 
+### Collaboration Policy 
 
 The collaboration policy is pretty simple:
 
@@ -106,7 +106,7 @@ The collaboration policy is pretty simple:
 
 * _When in doubt, ask_: If you have doubts about this policy or would like to discuss specific cases, please ask the instructor.
 
-###Standard Course Policies 
+### Standard Course Policies 
 
 <br>
 
