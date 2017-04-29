@@ -7,7 +7,7 @@ Overview and Rules
 --------
 - The final exam is cumulative but will emphasize material covered after the midterm (starting with Decision Trees). This includes all material presented in videos, in-class discussion, in-class exercises, and material introduced in homework
 - You are allowed **TWO** 8-1/2 x 11in sheet of **handwritten** notes (both sides).  No magnifying glasses! 
-- A calculator is strongly recommended.   Any calculator that cannot access the internet or store large amounts of data may be used. 
+- A calculator is strongly recommended.   Any calculator that cannot access the internet or store large amounts of data may be used. Smartphones may **NOT** be used as calculators.
 - The exam will be a mixture of multiple choice questions and free-response questions in which you may be asked to work through simple examples of algorithms or proofs. 
 - **IMPORTANT**: We will be using Scantron forms for the multiple choice questions.  Please bring a Number 2 pencil to the exam. 
 
