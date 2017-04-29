@@ -57,7 +57,7 @@
 | 04.26        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			   | Reinforcement Learning 2			 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson24.pdf)		|			| 
 | 04.28        | 				 | 			   | 									 |			|	| 
 | 05.01        | 				 | 			   | Ethics and ML |			|			| 
-| 05.03        | 				 | 			   | Final Exam Review |			| [Neural Net](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/neural_net/assign.md)			| 
+| 05.03        | 				 | 			   | [Final Exam Review](https://github.com/chrisketelsen/courses/blob/master/csci5622/exam/final_info.md) |			| [Neural Net](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/neural_net/assign.md)			| 
 | 05.05        | 				 | 			   | 									 |			| [Project Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) 										   | 
 
 
