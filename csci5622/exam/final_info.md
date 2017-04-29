@@ -59,7 +59,6 @@ Material Overview
 - probabilistic interpretation of regression models 
 - generalities of how weights are estimated 
 - interpretation of the weights in regression models 
-- **WON'T** ask you about material on solving for regularized regression weights (Lecture 9 in-class notebook)
 
 **Regularization** 
 - the point of regularization 
@@ -67,6 +66,7 @@ Material Overview
 - LASSO (L1) Regression 
 - Ridge vs LASSO regression 
 - the effect on bias/variance 
+- **WON'T** ask you about material on solving for regularized regression weights (Lecture 9 in-class notebook)
 
 **Learning Theory**
 - the Bias/Variance Trade-Off
