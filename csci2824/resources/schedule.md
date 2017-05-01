@@ -51,8 +51,8 @@
 | 04.21        | 				 | 			   | Relations Part II 					 |[Lecture 37](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1ve21mskm55iz)| [hmwk11](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1h4la92q2lbb)																																		| 
 | 04.24        | 10.1, 10.2		 | 			   | Graphs Part I						 |[Lecture 38](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1vecqsgot36a)|			| 
 | 04.26        | 10.3, 10.4, 10.8	| 			   | Graphs Part II 					 |[Lecture 39](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1z2qh9x4qv6z8)|			| 
-| 04.28        | 11.1-11.3		 | 			   | Trees Part I 						 |Lecture 40| [hmwk12](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1qzh58zpzx5so)																																		| 
-| 05.01        | 				 | 			   | Trees Part II 						 |Lecture 41|			| 
+| 04.28        | 				 | 			   | PageRank |[Lecture 40](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j25uec9ynl211q)| [hmwk12](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1qzh58zpzx5so)																																		| 
+| 05.01        | 11.1-11.4		 | 			   | Trees 							|Lecture 41|			| 
 | 05.03        | 				 | 			   | 	**Quiz 5**	(covers hmwks 10-12) |			|			| 
 | 05.05        | 				 | 			   | 	**Final Exam Review**			 |			| hmwk13																																		| 
 | 05.11        | 				 | 			   | **Final Exam @ 7:30pm in GOLD A2B70**	 |		| 			| 
