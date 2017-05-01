@@ -88,7 +88,8 @@ Material Overview
 
 **Trees** 
 - Basic Definitions 
-- Will add more when I decide what we're doing in class on Monday 
+- Decision Trees and Backtracking 
+- Huffman Encoding 
 
 
 
