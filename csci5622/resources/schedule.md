@@ -58,6 +58,7 @@
 | 04.28        | 				 | 			   | 									 |			|	| 
 | 05.01        | 				 | 			   | Ethics and ML |			|			| 
 | 05.03        | 				 | 			   | [Final Exam Review](https://github.com/chrisketelsen/courses/blob/master/csci5622/exam/final_info.md) |			| [Neural Net](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/neural_net/assign.md)			| 
-| 05.05        | 				 | 			   | 									 |			| [Project Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) 										   | 
+| 05.05        | 				 | 			   | 									 |			| [Project Writeup Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) 										   | 
+| 05.08        | 				 | 			   | 									 |			| [Project Video Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) 										   | 
 
 
