@@ -54,7 +54,7 @@
 | 04.28        | 				 | 			   | PageRank |[Lecture 40](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j25uec9ynl211q)| [hmwk12](https://piazza.com/class_profile/get_resource/ixw3l3198zlbb/j1qzh58zpzx5so)																																		| 
 | 05.01        | 11.1-11.4		 | 			   | Trees 							|Lecture 41|			| 
 | 05.03        | 				 | 			   | 	**Quiz 5**	(covers hmwks 10-12) |			|			| 
-| 05.05        | 				 | 			   | 	**Final Exam Review**			 |			| hmwk13																																		| 
+| 05.05        | 				 | 			   | 	**Final Exam Review**			 | [Review Sheet](https://github.com/chrisketelsen/courses/blob/master/csci2824/exams/final_info.md)			| hmwk13																																		| 
 | 05.11        | 				 | 			   | **Final Exam @ 7:30pm in GOLD A2B70**	 |		| 			| 
 
 
