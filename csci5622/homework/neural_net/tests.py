@@ -3,7 +3,7 @@ from nn import Network
 import numpy as np 
 import cPickle, gzip
 
-np.random.seed(1235)
+np.random.seed(1234)
 
 f = gzip.open('../data/tinyTOY.pkl.gz', 'rb')
 train, test = cPickle.load(f) 
