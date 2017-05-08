@@ -1,7 +1,7 @@
 Final Exam Information 
 =
 
-**Time**/**Date**: 8. May from 7:30-10:00pm in ECCS 1B12  
+**Time**/**Date**: 8. May from 7:30-10:00pm in **ECCE 1B41**  
 
 Overview and Rules  
 --------
