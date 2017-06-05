@@ -70,8 +70,8 @@ Unless adjustments are necessary, letter grades will be assigned using the stand
 
 This term we will be using Piazza for class
 discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and
-the instructor. Rather than emailing questions to the teaching staff, we encourage you to post your questions on Piazza. If
-you have any problems or feedback for the developers, email team@piazza.com.
+the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question 
+is of a private nature, Piazza allows you to send me a private message. 
 It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as
 news, homework assignments and solutions, and instructor office hours. 
 
