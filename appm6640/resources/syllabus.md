@@ -9,69 +9,43 @@
 * **Prerequisites**: APPM 5600 _or_ CSCI 5646 
 * **Office Hours**: MTW 1-2pm in ECOT 731 _or_ by appointment  
 
-### Why Discrete Structures? 
+### Course Description  
 
-The course covers fundamental ideas from discrete mathematics, especially for computer science students. It focuses on topics that will be foundational for future courses including algorithms, artificial intelligence, programming languages, automata theory, computer systems, cryptography, networks, computer/network security, databases, and compilers.
+Focuses on multigrid techniques for solving systems arising from the discretization of elliptic and parabolic partial differential equations.  Includes discussion of classic iterative methods, geometric and algebraic multigrid methods, as well as methods for nonlinear problems.  Stresses significant computer science applications and programming. 
 
-_Computer Science_ is all about solving interesting problems efficiently and cheaply, using computers! Here are some real problems that keep many computer scientists awake at night:
+### Course Objectives 
 
-* Route a packet reliably from one server to another on the internet (faster than [existing protocols](http://en.wikipedia.org/wiki/Routing)? even when routers can fail on us?)
-* Search for web pages (better than [Google](http://www.google.com), [Bing](http://www.bing.com) or your favorite search engine??)
-* Find the biggest [clique](http://en.wikipedia.org/wiki/Clique) on Facebook. How many people are in this clique? Who are they?
-* Understand how to sequence the human genome.
-* Find all the prime factors for really large number (> 10^10000).
-* Write a program to play _go_ (and play better than the best human champion?).
-* Write a program to check if a program is “correct” (keeps your instructor awake at night!).
-
-Some of these problems are [really hard](http://en.wikipedia.org/wiki/NP-complete) to solve using a computer. No one knows if there are easy solutions to these problems and it would be nice to see efficient solutions in this century. In this course, we will cover the mathematical foundations that will help us formulate solutions to some of the real problems above. Specifically, we will learn
-
-* How to abstract using mathematical objects such as sets, relations, functions, trees and graphs.
-* How to count really well. 
-* How to reason like a _pro_: obtain succinct water-tight proofs to guarantee that your solutions are correct, better than a competing solution and all that.
-* We will learn these cool mathematical facts, so that in the course of your education as a computer scientist, you will write cool programs to solve interesting problems involving automated reasoning, games, fractals, social networks and the human genome.
-
-### Topics Covered
-
-Roughly, we will cover the following topics (some of them may be skipped depending on the time available).
-
-* **Logic**: Propositional and First Order Logic, Boolean Algebra.
-* **Proofs**: Primer on writing proofs, inductions, proof by contradiction.
-* **Sets, Relations and Functions**: Basic properties. Paradoxes in naive set theory. Infinite sets. 
-* **Recursion**: Recursive functions and recursively defined structures.
-* **Combinatorics**: Counting, binomial theorem, counting with recursion.
-* **Discrete Probability**: Basic facts, Bayes Rule 
-* **Graphs**: Definitions and properties of graphs.
-* **Trees**: Definitions and properties of trees.
-* **Example Applications**: Artificial Intelligence (automated reasoning, game playing), Graphics (drawing fractals), Cryptography (RSA) and Networks (social network analysis).
+* To develop the ability to derive, analyze, and implement multigrid algorithms.
+* To recognize the wide use of multilevel methods in applications.
+* To extend the concepts learned in previous courses to a wider class of problems.
+* To gain a broader knowledge of and appreciation for mathematics and its applications.
 
 ### Textbook 
 
-We will use [_Discrete Mathematics and Its Applications, 7th ed._](https://smile.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/ref=sr_1_1?s=books&ie=UTF8&qid=1484628806&sr=1-1&keywords=rosen+discrete+math) by Kenneth H. Rosen.  
+We will use [_A Multigrid Tutorial, 2nd Ed._](https://www.amazon.com/Multigrid-Tutorial-William-L-Briggs/dp/0898714621/ref=sr_1_1?ie=UTF8&qid=1496677225&sr=8-1&keywords=A+multigrid+tutorial) by Briggs et al., Society of Industrial and Applied Mathematics, 2nd ed., 2000. A digital copy of the book is available for free through the CU Library, but if would like a 
+paperback copy is available through Amazon or through SIAM Publishing. 
 
-I realize the book is pricey, but it's pretty well-written and includes lots of cool computer science applications.  Earlier additions are fine, but you'll be responsible for figuring out the section number map between editions for the daily reading. 
+### Programming
 
-### Coursework 
+A central goal of this course is to be able to implement multigrid methods and critically analyze the results relative to the developed theory. Experience in a scientific programming language is a course prerequisite.  For this course we will use Julia in combinations with Jupyter Notebooks. Julia is a fast, open-source scientific programming language that is syntactically similar to Matlab. 
 
-**Weekly(ish) Homework**: Homework will be assigned roughly every week throughout the course and due at the beginning of class on Friday of the week after it is assigned.  Some assignments will involve written work and small programming tasks. Other assignments will be devoted to exploring specific computer science applications.  These application assignments will **count as two standard assignments**.  **Your two lowest homework scores will be dropped.** You are expected to write up your solutions neatly, with full explanations and justifications. You may discuss problems with your classmates, **but all work must be your own**.  Please be mindful of the due dates as late submissions will not be accepted.  I accept homework at the start of class or underneath my office door prior to the start of class.  I do **NOT** accept emailed homework under any circumstances.
+### Homework 
 
-**Examinations**: Every 2-3 weeks there will be a 20-ish minute quiz (a.k.a. _mini-exam_) on material corresponding to the previous set of lectures and homework.  The dates and material for each quiz will be posted well in advance. Your lowest quiz score will be dropped. 
+You will complete homework assignments throughout the course.  Each homework assignment will have a theoretical component and a programming component.  The theoretical component may require proofs, derivations, or computer implementation/verification of numerical methods. The implementation components are designed to familiarize you with the individual pieces of the multigrid algorithm, the main goal being your own functioning multigrid code midway through the term.  All homework assignments will be completed in Jupyter Notebook and will be submitted online.  You will be allowed 3 free late days for the semester.  After your late days are expended, a 20\% penalty will be assessed for each day past the due date.  
 
-There will be a cumulative final exam during the schedule final exam time-slot. You must take the final exam and score at least a 25% to pass the course. 
+### Algebraic Multgrid Project 
 
-**Course Participation**: Occasionally we will solve a short (5-10 minutes) tutorial problem as a class which you will write up and hand in at the end of lecture.  These are mainly designed to make sure you're attending class (_and also awake_).  If you miss a tutorial problem you can make-up some participation points by being active on the class forum (asking meaningful question, helping your classmates, etc). 
+Towards the end of the course you will complete a group project in which you will implement a particular algebraic multigrid algorithm 
+and apply it to an application problem of your choosing.  You will submit a 5-10 page project report and give a group presentation in 
+the last week of class.  
+
 
 ### Grade Determination 
-The overall grades will be based on a cumulative score computed from 
-* The weekly homework (with two scores dropped)
-* The grades from quizzes (with one score dropped)
-* The score from class participation 
-* The final exam 
 
 Overall, the contributions to the final grades will be: 
-* Weekly Homework (35% of the grade)
-* In-Class Quizzes (35% of the grade)
+* Homework (65% of the grade)
+* Project (25% of the grade)
 * Participation (10% of the grade)
-* Final Exam (20% of the grade)
 
 Unless adjustments are necessary, letter grades will be assigned using the standard grading scale: 
 
