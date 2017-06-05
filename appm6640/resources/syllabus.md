@@ -22,7 +22,7 @@ Focuses on multigrid techniques for solving systems arising from the discretizat
 
 ### Textbook 
 
-We will use [_A Multigrid Tutorial,](https://www.amazon.com/Multigrid-Tutorial-William-L-Briggs/dp/0898714621/ref=sr_1_1?ie=UTF8&qid=1496677225&sr=8-1&keywords=A+multigrid+tutorial) by Briggs et al., Society of Industrial and Applied Mathematics, 2nd ed., 2000. A digital copy of the book is available for free through the CU Library, but if would prefer a 
+We will use [A Multigrid Tutorial](https://www.amazon.com/Multigrid-Tutorial-William-L-Briggs/dp/0898714621/ref=sr_1_1?ie=UTF8&qid=1496677225&sr=8-1&keywords=A+multigrid+tutorial), by Briggs et al., Society of Industrial and Applied Mathematics, 2nd ed., 2000. A digital copy of the book is available for free through the CU Library, but if would prefer a 
 paperback copy, it is available through Amazon or through SIAM Publishing. 
 
 ### Programming
